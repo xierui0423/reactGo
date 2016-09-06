@@ -1,8 +1,8 @@
-@import '../settings';
-@import '../common/typography';
-@import '../common/colors';
-@import '../common/button';
-@import '../common/input';
+@import '../settings.css';
+@import '../common/typography.css';
+@import '../common/colors.css';
+@import '../common/button.css';
+@import '../common/input.css';
 
 .login {
   width: 420px;

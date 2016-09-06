@@ -1,6 +1,6 @@
-@import '../settings';
-@import '../common/colors';
-@import '../common/typography';
+@import '../settings.css';
+@import '../common/colors.css';
+@import '../common/typography.css';
 
 .message {
   display: none;

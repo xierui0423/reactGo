@@ -1,6 +1,6 @@
-@import '../common/typography';
-@import '../common/layout';
-@import '../common/card';
+@import '../common/typography.css';
+@import '../common/layout.css';
+@import '../common/card.css';
 
 .scoreboard {
   @apply --card;

@@ -1,5 +1,5 @@
-@import 'typography';
-@import 'colors';
+@import 'typography.css';
+@import 'colors.css';
 
 :root {
 

@@ -1,6 +1,6 @@
-@import '../common/typography';
-@import '../common/colors';
-@import '../common/layout';
+@import '../common/typography.css';
+@import '../common/colors.css';
+@import '../common/layout.css';
 
 .topic-item {
   display: flex;
